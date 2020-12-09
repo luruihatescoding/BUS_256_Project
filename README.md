@@ -44,5 +44,5 @@ Usually, the datasets downloaded are not ready to be used for building models. T
 ```
 heart_data.hist()
 ```
-![alt text](https://github.com/luruihatescoding/BUS_256_Project/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/luruihatescoding/BUS_256_Project/blob/main/histogram.png?raw=true)
 
